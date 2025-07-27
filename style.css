@@ -1,0 +1,89 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color: #C7EBCD;
+    text-align: center;
+   
+}
+.top-container{
+    background-color:#C7EBCD ;
+    padding: 100px;
+    position: relative;
+}
+h1{
+    color: rgb(13, 196, 196);
+    margin: 50px auto 0 auto;
+    font-size: 5.645rem;
+    font-family: "Sacramento", cursive;
+}
+h2{
+    font-family: "Montserrat", sans-ser;
+    font-size: 2.5rem;
+    color:indigo;
+    font-weight: normal;
+}
+.middle-container{
+ background-color: white;
+top: 200px;
+position: relative;
+}
+h3{
+ font-family: "Montserrat", sans-ser; 
+  color:indigo;   
+}
+.aayatiin{
+    height: 100px;
+    width: 100px;
+    margin-top: 60px;
+    border-radius: 50%;
+}
+.skills{
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+
+.buur{
+    padding: 20px;
+}
+.guur{
+    padding-bottom: 50px;
+}
+ul{
+   color: #1a1ab9a2;
+   display: flex;
+   justify-content: center;
+    margin-top: 100px;
+}
+li{
+    list-style-type: none;
+    font-weight: 900;
+    margin: 20px;
+}
+a{
+    text-decoration: none;
+    color: #1a1ab9a2;
+}
+a:hover{
+
+    color: chocolate;
+    transition: 0.4s ease;
+}
+a:focus{
+    color: rgb(13, 255, 0);
+   
+    transition: 0.4s ease;
+   
+}
+.footer{
+    background-color:#CE6AE6;
+     position: relative;
+     width: 100%;
+    height: 200px;
+    margin-top: 200px;
+    padding-bottom: 4%;
+}
+.koolo{
+    margin-top: 170px;
+}
